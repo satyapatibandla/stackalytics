@@ -12338,6 +12338,17 @@
             "emails": ["a-yoshiyama@bu.jp.nec.com", "akirayoshiyama@gmail.com"]
         },
         {
+            "launchpad_id": "satya-patibandla",
+            "companies": [
+                {
+                    "company_name": "Imaginea Technologies Inc",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Satyanarayana Patibandla",
+            "emails": ["satya.patibandla@gmail.com", "satya.patibandla@tcs.com"]
+        },
+        {
             "launchpad_id": "yportnova",
             "companies": [
                 {
